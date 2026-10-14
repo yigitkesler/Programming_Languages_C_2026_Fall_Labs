@@ -1,5 +1,5 @@
 // week5_task3_student_management_system.c
-// Name: Yigit  Surname: Kesler  Student ID: [251ADB030]
+// Name: Yigit  Surname: Kesler  Student ID: 251ADB030
 //
 // Task 3: Student management system with file persistence
 // Week 5 - Files & Modular Programming
